@@ -5,8 +5,6 @@
 
 - 💬 Me pergunte sobre *Data Studio, Power BI, Planilhas e Excel*
 
-- 📫 Você me encontra atraves do e-mail *juliasutil95@gmail.com*
-
 - 📄 Mais sobre mim e minhas experiencias estão no Linkedin [https://www.linkedin.com/in/juliasutil/](https://www.linkedin.com/in/juliasutil/)
 
 <h3 align="left">Connect with me:</h3>
